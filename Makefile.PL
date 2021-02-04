@@ -60,18 +60,18 @@ if ($ExtUtils::MakeMaker::VERSION ge '6.46')
 		{
 			version => 2,
 		},
-		resources   =>
+		resources =>
 		{
 			bugtracker =>
 			{
-				web => 'https://github.com/ronsavage/DBIx-Admin::DSNManager/issues',
+				web => 'https://github.com/ronsavage/DBIx-Admin-DSNManager/issues',
 			},
 			license		=> 'http://opensource.org/licenses/Perl',
 			repository	=>
 			{
 				type	=> 'git',
-				url		=> 'https://github.com/ronsavage/DBIx-Admin::DSNManager.git',
-				web		=> 'https://github.com/ronsavage/DBIx-Admin::DSNManager',
+				url		=> 'https://github.com/ronsavage/DBIx-Admin-DSNManager.git',
+				web		=> 'https://github.com/ronsavage/DBIx-Admin-DSNManager',
 			},
 		},
 	};
